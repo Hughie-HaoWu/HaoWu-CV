@@ -7,42 +7,28 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 伍浩
+    name: Hao Wu
     tagline: PhD Candidate
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: wh9405@bupt.edu.cn
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    #website: blog.webjeda.com #do not add http://
+    linkedin: #alandoe
+    #github: Hughie-HaoWu
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -56,9 +42,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph.D. in Computer Science
+      university: Beijing University of Posts and Telecommunications
+      time: 2017 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +55,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.S. in Communication Engineering
+      university: Beijing University of Posts and Telecommunications
+      time: 2013 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -156,23 +142,23 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro:
+      #You can list your publications in this section. Lorem ipsum dolor sit
+      #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      #bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Online Optimization of Wireless Powered Mobile-Edge Computing for Heterogeneous Industrial Internet of Things
+        authors: H. Wu, X. Lyu and H. Tian
+        conference: "IEEE Internet of Things Journal, vol. 6, no. 6, pp. 9880-9892, Dec. 2019."
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: H. Wu, H. Tian, G. Nie
+        conference: "IEEE Wireless Communications Letters, vol. 8, no. 1, pp. 41-44, Feb. 2019."
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: User location prediction based cell discovery scheme for user-centric ultra-dense networks
+        authors: H. Wu, H. Tian, Z. Huang, and G. Nie
+        conference: "2018 IEEE Wireless Communications and Networking Conference (WCNC)"
 
 skills:
     title: Skills &amp; Proficiency
