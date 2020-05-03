@@ -42,7 +42,7 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: Ph.D. in Computer Science
+    - degree: Ph.D. in Information and Communication Engineering
       university: Beijing University of Posts and Telecommunications
       time: 2017 - 2022
       details: |
@@ -149,6 +149,7 @@ publications:
 
     papers:
       - title: Online Optimization of Wireless Powered Mobile-Edge Computing for Heterogeneous Industrial Internet of Things
+        link: "https://ieeexplore-ieee-org.ezproxy.neu.edu/document/8787580"
         authors: H. Wu, X. Lyu and H. Tian
         conference: "IEEE Internet of Things Journal, vol. 6, no. 6, pp. 9880-9892, Dec. 2019."
 
